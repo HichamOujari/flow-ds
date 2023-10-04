@@ -1,0 +1,26 @@
+.header{
+    border-bottom: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.header>h1{
+    font-weight: 400;
+}
+.header>h1:first-letter {
+    text-transform: capitalize;
+}
+
+.graphContainer{
+    margin-top: 60px;
+    width: 60%;
+    max-height: 900px;
+    min-height: 100px;
+    margin-left: 20%;
+}
+
+.predictionContainer{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
