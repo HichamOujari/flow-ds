@@ -1,4 +1,5 @@
 1- Technologie utilises:
+
     - Backend : 
         - mysql database
         - typeorm
@@ -10,15 +11,16 @@
         - Chart.js
 
 2- To run project follow those steps : 
-    running backend : 
+
+    - running backend : 
         - setup the database config in .env file
         - npm i
         - npm run import-provided-data
         - npm run start:dev
 
-    running test :
+    - running test :
         - npm run test
 
-    running frontend :
+    - running frontend :
         - npm i
         - npm start
